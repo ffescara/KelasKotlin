@@ -11,7 +11,7 @@ fun main() {
     val tarifBerikutnya = 0.5
     val maxTarifPerHari = 15
 
-    lamaParkir = 24
+    lamaParkir = 72
     hari = lamaParkir/24
     jam = lamaParkir%24
 

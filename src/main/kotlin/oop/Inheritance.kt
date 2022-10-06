@@ -1,0 +1,6 @@
+package oop
+
+class Inheritance {
+
+
+}
